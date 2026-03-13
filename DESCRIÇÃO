@@ -1,3 +1,8 @@
 Rapida descrição de cada Arquivo
 
 Sistema Frota, onde conecta todas as funcionalidades do codigo e roda no terminal
+VeiculoDAO, todos as funcões do sistema, estão dentro deste código
+veiculo, todas as caracteristicas estão neste código
+conexão, cria uma ponte para conectar o projeto com o banco de dados
+janela frota, basicamente o frontend bem basico para o projeto
+
